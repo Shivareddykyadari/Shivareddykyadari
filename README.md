@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="https://github.com/Shivareddykyadari">
-        <img src="https://komarev.com/ghpvc/?username=Shivareddykyadari&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen Kumar" />
+        <img src="https://komarev.com/ghpvc/?username=Shivareddykyadari&label=Profile%20views&color=0e75b6&style=flat" alt="shiva Reddy" />
     </a>
      <a href="https://github.com/Shivareddykyadari?tab=followers">
         <img src="https://img.shields.io/github/followers/Shivareddykyadari?label=Followers&style=social" alt="followers-count">
@@ -40,9 +40,9 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Node%20Js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+<!--     <img src="https://img.shields.io/badge/Node%20Js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/Express%20Js-667881?style=for-the-badge&logo=express&logoColor=green" alt="Expressjs" />
-    <img src="https://img.shields.io/badge/Mongodb%20-darkgreen?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDb" />
+    <img src="https://img.shields.io/badge/Mongodb%20-darkgreen?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDb" /> -->
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
@@ -53,14 +53,14 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2 align="center"><i>Let's Connect</i></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/praveen-yadav-882630169/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-yadav-882630169/" />
+    <a href="https://www.linkedin.com/in/shiva-kumar-reddy-kyadari-9814a7213/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shiva-kumar-reddy-kyadari-9814a7213/" />
     </a>
-    <a href="https://twitter.com/ypraveen341">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ypraveen341" />
+    <a href="https://twitter.com/Shivareddykyadari">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Shivareddykyadari" />
     </a>
-    <a title="ypraveen341@gmail.com" href="mailto:ypraveen341@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ypraveen341@gmail.com"/>
+    <a title="shivareddykyadari1430@gmail.com" href="mailto:shivareddykyadari1430@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shivareddykyadari1430@gmail.com"/>
     </a>
 </p>
 <br>
