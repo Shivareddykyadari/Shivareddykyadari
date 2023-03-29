@@ -12,7 +12,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I am a highly motivated tech support engineer with a strong technical background and experience in IT support, helpdesk management, and customer service. My skills include hardware and software troubleshooting, network setup and configuration, and system maintenance. I am a proactive problem solver with excellent communication skills and a commitment to delivering exceptional customer service.</i>
+    <i> a highly motivated tech support engineer with a strong technical background and experience in IT support, helpdesk management, and customer service. My skills include hardware and software troubleshooting, network setup and configuration, and system maintenance. I am a proactive problem solver with excellent communication skills and a commitment to delivering exceptional customer service.</i>
 </h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
